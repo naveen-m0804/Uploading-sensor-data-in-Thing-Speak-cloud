@@ -132,7 +132,7 @@ void loop()
 # CIRCUIT DIAGRAM:
 
 # OUTPUT:
-<img src="https://github.com/naveen-m0804/Control-of-Relay-Using-IoT-controller/assets/117974950/172da698-a33a-43bd-8918-60bf6cd9f8af" alt="alt text" width="500" height="300" class="center">
+<img src="https://github.com/naveen-m0804/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117974950/c5bdef95-651e-4927-8003-5bbdf11885b9" alt="alt text" width="500" height="300" class="center">
 
 # RESULT:
 
