@@ -1,4 +1,4 @@
-#### Name: NAVEEN M
+![20240410_105603](https://github.com/naveen-m0804/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117974950/256d585c-811f-4d26-908a-41bbd9b86343)![20240410_105603](https://github.com/naveen-m0804/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117974950/aab53371-3cb5-499a-ad31-322e83df30fc)#### Name: NAVEEN M
 #### Reg.No: 212222110029
 # Experiment 2: Uploading temperature sensor data in Thing Speak cloud
 
@@ -130,6 +130,8 @@ void loop()
 ```
 
 # CIRCUIT DIAGRAM:
+<img src="https://github.com/naveen-m0804/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117974950/982ea46d-d8db-4d8e-a89c-1b598cbdf9ca" alt="alt text" width="500" height="300" class="center">
+
 
 # OUTPUT:
 <img src="https://github.com/naveen-m0804/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117974950/c5bdef95-651e-4927-8003-5bbdf11885b9" alt="alt text" width="500" height="300" class="center">
