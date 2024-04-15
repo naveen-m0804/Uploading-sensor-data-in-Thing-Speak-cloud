@@ -135,6 +135,8 @@ void loop()
 
 # OUTPUT:
 <img src="https://github.com/naveen-m0804/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117974950/c5bdef95-651e-4927-8003-5bbdf11885b9" alt="alt text" width="500" height="300" class="center">
+<img src="https://github.com/naveen-m0804/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117974950/f339a136-6288-48c4-a7e0-36071275ff51" alt="alt text" width="500" height="300" class="center">
+
 
 # RESULT:
 
